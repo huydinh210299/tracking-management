@@ -1,0 +1,38 @@
+﻿.flex-space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.branch-logo{
+    position: absolute;
+    top:0;
+    right:0;
+}
+
+.report-title {
+    margin-top:100px;
+    text-align: center;
+}
+
+.date-fromto{
+    text-align:center;
+    font-style: italic;
+    font-size:18px;
+}
+
+.export-date{
+    text-align: right;
+    font-style:italic;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 20px;
+    text-align: center;
+}
